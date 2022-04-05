@@ -44,7 +44,7 @@ CAKE: 0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82
 
 ## Remix国内加速版
 
-https://remix.jishutuan.com
+https://pancake.kiemtienonline360.com/
 
 ## TG电报群
 
