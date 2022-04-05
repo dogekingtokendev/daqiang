@@ -20,11 +20,11 @@ Other Settings: default evmVersion, MIT license
 
 ## 部署参数
 
-CONTRACT 选择 `dogeking`，Value `100000000000000000` （0.1BNB）
+CONTRACT 选择 `daqiang`，Value `100000000000000000` （0.1BNB）
 
 ```
-name_: dogeking Token (代币名称)
-symbol_: dogeking (代币符号)
+name_:  daqiang Token (代币名称)
+symbol_: daqiang (代币符号)
 totalSupply_: 1000000000000000000000000000000000 (发行量1000万亿)
 ADDRS:['要分红的代币合约','0x10ed43c718714eb63d5aa57b78b54704e256024e','营销钱包地址','0xcCd064831839A8fD64D2A742FE6192e5fF4eF2D1']
 FEESETTINGS: [4,3,2] (分红、流动性、市场营销)
