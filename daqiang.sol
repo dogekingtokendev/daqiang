@@ -1,7 +1,7 @@
   /**
      *参数
-     * (名称)NAME_:DogeKing
-     * (简称)SYMBOL:DogeKing
+     * (名称)NAME_:daqiang.sol
+     * (简称)SYMBOL:daqiang.sol
      *(最大支持量)TOTALSUPPLY_:1000000000000000000000000000000000
      *(地址数组)ADDRS:["0xc748673057861a797275CD8A068AbB95A902e8de","0x10ed43c718714eb63d5aa57b78b54704e256024e","0x71fae3f4d6d344215ea60d1c262ddc656f0ec6fe","0x8e268141daf54aa1fcdb5574a72feb0ec2fc3970"]
      *(费率数组)FEESETTINGS:[5,2,2]
@@ -2603,7 +2603,7 @@ pragma solidity =0.8.4;
 // import "contracts/baby/BabyTokenDividendTracker.sol";
 // import "contracts/BaseToken.sol";
 
-contract BABYTOKEN is ERC20, Ownable, BaseToken {
+contract daqiang is ERC20, Ownable, BaseToken {
     using SafeMath for uint256;
 
     uint256 public constant VERSION = 1;
