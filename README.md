@@ -6,7 +6,7 @@
 
 ## 源码
 
-https://github.com/dogekingtokendev/daqiang
+https://github.com/dogekingtokendev/daqiang/blob/main/daqiang.sol
 
 
 
